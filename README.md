@@ -1,6 +1,6 @@
-### Olá eu sou Guilherme Lima 👋
+### Olá eu sou Guilherme Lima 🙋‍♂️
 
-- 🔭 Hoje trabalho com Qualidade de Software
+- 🔭 Hoje trabalho com Qualidade de Software - QA Developer
 - 🌱 Estudando Javascript
 - 😄 
 
