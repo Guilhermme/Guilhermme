@@ -1,7 +1,11 @@
 ### Olá eu sou Guilherme Lima 🙋‍♂️
 
 - 🔭 Hoje trabalho com Qualidade de Software - QA Developer
-- 🌱 Estudando Javascript
+- 🌱 Javascript
+- 🌱 Phython
+- 🌱 Cypress
+- 🌱 Webdriver
+- 🌱 K6
 - 😄 
 
 <div>
